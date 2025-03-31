@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Diemooder
-- 👀 I’m interested in ethical hacking, webpage development, game development and computer science.
-- 🌱 I’m currently learning ethical hacking, computer science, software development and mathematics.
-- 💞️ I’m looking to collaborate on anything that has knowledge value to it.
-- 📫 How to reach me just contact me here I guess.
+- 👋 Hi, I’m Diego Aldana
+- 👀 I’m interested in web development, Web 3, blockchain technologies and AI.
+- 🌱 I’m currently studying my Computer Science major, learning Data Structures, low-end programming, and mastering C.
+- 💞️ I’m looking to collaborate on any company/project where I can learn to code as a team.
+- 📫 Reach me: diegaso0704@gmail.com
 
 <!---
 Diemooder/Diemooder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
